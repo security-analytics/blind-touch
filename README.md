@@ -69,7 +69,7 @@
 - Firstly, set the code in the main server
 - Copy and store the key set in the path (define the path).
 - Load the registered ciphertexts from the cluster servers.
-- Compress all ciphertext as one ciphertext using the ```Compression Method```
+- Compress all ciphertext into a ciphertext using the ```Compression Method```
 - Send the compressed ciphertext to the client.
 
 ### 3.6 Cluster Server Setting
