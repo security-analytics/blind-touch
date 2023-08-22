@@ -21,6 +21,7 @@ Load the modules for training.
 ## 2. Installation
 - CUDA 11.4
 - Python 3.8.1
+- SEAL-Python library (https://github.com/Huelse/SEAL-Python)
 - Python packages are detailed separately in ```requirements.txt```
 
 ## 3. Setting
