@@ -67,11 +67,11 @@ Load the modules for training.
 - Move the generated ciphertext (ctxt1, ctxt2, ctxt3) which is used as the registered ciphertext in the server. Send the ciphertexts to Clusert1, Cluster2, and Cluster3 each other.
 
 ### 3.4 Main Server Setting
-- Firstly, set the code in ...
+- Firstly, set the code in the main server
 - Copy and store the key set in the path (Define the path)
 
 ### 3.5 Cluster Server Setting
-- Firstly, set the code in ...
+- Firstly, set the code in each cluster servers
 - Copy and store the key set and the ciphertext in the path (Define the path)
 - All setting is defined in the conf.py
 
