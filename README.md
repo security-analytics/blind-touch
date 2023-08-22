@@ -1,5 +1,3 @@
-Load the modules for training.
-
 # Blind-Touch: Homomorphic Encryption-Based Distributed Neural Network Inference for Privacy-Preserving Fingerprint Authentication
 
 - This repository provides source code to try using homomorphic encryption-based fingerprint authentication.
